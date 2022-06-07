@@ -1,107 +1,111 @@
-# IOT
+# IoT #
 
-IOT- Internet of things!
+IoT- Internet of things!
 
-Now a days we often hear the term IOT! 
-What is this technology and how it works? 
+Nowadays we often hear the term IoT! 
+What is this technology and how does it work? 
 curious? No worries you are in a right place.
 
 Now let us begin..
 
-IOT or internet of things means each and every thing is connected to the internet.
-Each and every thing . what thing?
+IoT or the internet of things means everything is connected to the internet.
+Each and everything. what thing?
 
-Things are devices that are embedded with sensors, software and other technology, these devices can be connected to the internet and exchange datas
+Things are devices that are embedded with sensors, software, and other technology, these devices can be connected to the internet and exchange data.
 
-for example The air conditioner in your home set perfect room temperature for you before you reach home. Cool technology, right? 
+For example, The air conditioner in your home set the perfect room temperature for you before you reach home. Cool technology, right? 
 
-Now let us take a look at how IOT actually works?
+Now let us take a look at how IoT works?
 
-The concept is like the devices like smartphone, smartwateches, TV, Washing Machine themselves communicate with the IOT platform.
-Now it is necessory to learn the fundamental components of an IOT system.
+The concept is like the devices like smartphones, smartwatches, TV, and Washing machines themselves communicate with the IoT platform.
+
+Now it is necessary to learn the fundamental components of an IoT system.
 
 1) Sensors/Devices:
 
-Sensorsor devices are the key component in an IOT system. Sensors help to collect data from the surrounding environment.
-commonly used sensors are Temperature sensors, Humidity Sensors, Pressure Sensors,Gas sensors..etc
+Sensors or devices are the essential components in an IoT system. Sensors help to collect data from the surrounding environment.
+commonly used sensors are Temperature sensors, Humidity Sensors, Pressure Sensors, Gas sensors..etc
 
-A device may have various type of sensors which perform multiple tasks apart from sensing. for example a mobile phone is  device which has multiple sensors like GPS,
-camera..etc.
+A device may have varities of sensors that perform multiple tasks apart from sensing. For example, a smartwatch is a device that has different sensors in it.
 
 2) Connectivity
 
-All the datas collected by the sensors should send to the cloud. this can be achieved using communication mediums like, ZigBee, Z-Wave RFID, Wi-Fi and Bluetooth.
+All the data collected by the sensors should send to the cloud. This can be achieved using communication mediums like ZigBee, Z-Wave RFID, Wi-Fi, and Bluetooth.
 
 3) Data Processing
 
-Once the datas are collected, and it gets to the cloud, the next thing should be done is the processing on the gathered data.
-This process can be just checking the temperature, reading on device like AC or heaters or it can be very complex like identifying objects, using computer vision on video.
+Once the data are collected and get to the cloud, the next thing that should be done is the processing of the gathered data.
+This process can be just checking the temperature, reading on a device like AC or heaters or it can be very complex like identifying objects, using computer vision on video.
 
 4) User Interface
 
-Now that we collected and processed data. But stil the data need to be available to the end-user. Yes, it can be achieved by triggering alarms on their phones or sending them notification through email or text message.
+Now that we collected and processed data. But still, the data need to be available to the end-user. Yes, it can be achieved by triggering alarms on their phones or sending them notifications through email or text messages.
 
-Now letus explain the basic architecture of the IOT network.
+Now let us explain the basic architecture of the IoT network.
 
-The 4 Stage IOT architecture consisting of 4 layers.
+## The 4 Stage IoT architecture consists of 4 layers. ##
+
 1. Application layer.
 2. Data Processing Layer.
 3. Network Layer.
 4. Sensing Layer.
 
-1.Sensing Layer
 
-As the name this layer is where the sensors, actuators, devices are present.
-These sensors or actuators accepts data, process data and emits data over network.
+1. Sensing Layer
+
+Like the name, this layer is where the sensors, actuators, and devices are present.
+These sensors or actuators accept data, process data, and emit data over the network.
 
 2. Network Layer
 
-Internet/ network gateways, data acquisition system are present in this layer.
-DAS performs data aggregation and conversion function. 
-Advanced gateways which mainly opens up connection between sensors networks and Internat also performs many basic gateway functions like malware protection, 
-and filtering also some times decision making based on inputted data and data management services, etc.
+Internet/ network gateways and a data acquisition system are present in this layer.
+DAS performs data aggregation and conversion functions. 
+Advanced gateways that mainly open up a connection between sensors networks and Internat also perform   basic gateways functions like,  malware protection, 
+and filtering, also sometimes decision-making based on inputted data and data management services, etc.
 
 3. data processing Layer.
 
-Here data is analyzed and pre-processed before sending it to data center from where data is accessed by software applications,
+Here data is analyzed and pre-processed before sending it to the data center, from where data is accessed by software applications.
 Where data is monitored and managed and further actions are also prepared. 
 
 4. Application Layer
 
-This is the last layer of IOT architecture. Data centers is management stage of data where data is managed and is used by end-user applications like agriculture, health care..etc.
+This is the last layer of IoT architecture. Data centers is the management stage of data where data is managed and is used by end-user applications like agriculture, health care etc.
 
-
-IOT Applications
+## IOT Applications ##
 
 Now a days IOT is very popular in allmost all sectors. Transportation, Home automation, and Healt sectors are some.
 
 Examples- Smart Thermostats helps to save resources on heating bills by knowig your usage patterns.
           Connected Cars- IOT helps automobile companies handle billing, parking, insurance, and other related stuff automatically.
           
-Challenges of IOT
+## Challenges of IoT ##
 
-The main challenge in IOT is definitely the concern regarding data security and privacy.
-Other challeges are Software complexity, Data volumes and interpretation. Insufficient testing and updating.
+The main challenge in IoT is the concern regarding data security and privacy.
+Other challenges are Software complexity, Data volumes, and interpretation. Insufficient testing and updating.
 
-Advantages of IOT
+## Advantages of IoT ##
 
 1. Improved customer Engagement- IOT allows to improve customer experience by detecting problems and improving the process.
 
-2. Reduced Waste- IoT offers real-time information leading to effective decision making and management of resources.
+2. Reduced Waste- IoT offers real-time information leading to effective decision-making and management of resources.
 
-3. Improved Data collections- Traditional data collection has its limitations and its design for passive use. IOT facilites immediate action on data.
+3. Improved Data collections- Traditional data collection has its limitations and its design for passive use. IoT facilitates immediate action on data.
 
-4. Technical Optimization- IOT technology helps a lot in improving technologies and making them better. Example, with IOT, a manufacturer is able to collect data from various car sensors.
+4. Technical Optimization- IoT technology helps a lot in improving technologies and making them better. For example, with IoT, a manufacturer can collect data from various car sensors.
 The manufacturer analyzes them to improve its design and make them more efficient.
 
-Disadvantages IOT
+## Disadvantages IOT ##
 
-1. Security- IOt technology may offers little authentication in the ecosystem of connceted devices.
-2. Privacy- The uses of IOT, exposes a subtational amount of personal data, in extreme detail , without the user's active participation. this creates lots of privacy issues.
-3. Flexibility- There is a huge concern regarding the flexibility of an IOT system. It is mainly regarding integrating with another system as there are many diverse systems involved in the process.
-4. Complexity- The design of the IOT system is also quite complicated. Moreover; it's deployment and maintenance also not very easy.
-5. Compliance- IOT has its own set of rules and regulations which need to follow.
+1. Security- IoT technology may offer little authentication in the ecosystem of connected devices.
 
+2. Privacy- The use of IoT, exposes a subnational amount of personal data, in extreme detail, without the user's active participation. this creates lots of privacy issues.
+
+3. Flexibility- There is a huge concern regarding the flexibility of an IoT system. It is mainly regarding integrating with another system as there are many diverse systems involved in the process.
+
+4. Complexity- The design of the IoT system is also quite complicated. Moreover; its deployment and maintenance are also not very easy.
+
+5. Compliance- IoT has its own set of rules and regulations which need to follow.
 
 
 
