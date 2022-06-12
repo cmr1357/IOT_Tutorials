@@ -11,7 +11,7 @@ Which technology you should select depends on your application.
 There are mainly two types of IoT protocols
 
 1. IoT Network Protocols
-2. 2. IoT Data Protocols.
+2. IoT Data Protocols.
 
 
 ## IoT Network Protocol
