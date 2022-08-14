@@ -30,7 +30,7 @@ A device may have varities of sensors that perform multiple tasks apart from sen
 
 2) Connectivity
 
-All the data collected by the sensors should send to the cloud. This can be achieved using communication mediums like ZigBee, Z-Wave RFID, Wi-Fi, and Bluetooth.
+All the datas collected by the sensors should send to the cloud. This can be achieved using communication mediums like ZigBee, Z-Wave RFID, Wi-Fi, and Bluetooth.
 
 3) Data Processing
 
@@ -60,7 +60,7 @@ These sensors or actuators accept data, process data, and emit data over the net
 
 Internet/ network gateways and a data acquisition system are present in this layer.
 DAS performs data aggregation and conversion functions. 
-Advanced gateways that mainly open up a connection between sensors networks and Internat also perform   basic gateways functions like,  malware protection, 
+Advanced gateways that mainly open up a connection between sensors networks and Internat also perform  basic gateways functions like,  malware protection, 
 and filtering, also sometimes decision-making based on inputted data and data management services, etc.
 
 3. data processing Layer.
